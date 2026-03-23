@@ -1,0 +1,4 @@
+folder_to_exclude/
+korbon
+.env
+.gitignore
